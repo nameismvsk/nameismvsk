@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="[https://your-banner-image-url.com" alt="Masterhead Banner](https://images.app.goo.gl/hyaCsrYKdeKdaBkc7)" />
-</p>
 <h1 align="center">Hi 👋, I'm Sravan Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+Sravan+Kumar's+GitHub+Profile!" alt="Gif" width="400" />
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nameismvsk&label=Profile%20views&color=0e75b6&style=flat" alt="nameismvsk" /> </p>
-<p align="right"> <a href="https://twitter.com/nameismvsk" target="blank"><img src="https://img.shields.io/twitter/follow/nameismvsk?logo=twitter&style=for-the-badge" alt="nameismvsk" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nameismvsk&label=Profile%20views&color=0e75b6&style=flat" alt="nameismvsk" /> </p>
+
+<p align="left"> <a href="https://twitter.com/nameismvsk" target="blank"><img src="https://img.shields.io/twitter/follow/nameismvsk?logo=twitter&style=for-the-badge" alt="nameismvsk" /></a> </p>
 
 - 🌱 I’m currently learning **java**
 
