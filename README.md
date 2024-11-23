@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sravan Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Coding Animation" width="300"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nameismvsk&label=Profile%20views&color=0e75b6&style=flat" alt="nameismvsk" /> </p>
 
