@@ -5,8 +5,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nameismvsk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="left"> <a href="https://twitter.com/nameismvsk" target="blank"><img src="https://img.shields.io/twitter/follow/nameismvsk?logo=twitter&style=for-the-badge" alt="nameismvsk" /></a> </p>
-
 <!-- Animated GIF from Giphy on the right side -->
 <p align="right">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding Animation" width="300" />
