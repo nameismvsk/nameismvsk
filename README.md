@@ -4,8 +4,6 @@
 <p align="right">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuemwwdHE3enk4bmNhdmR1ZnE1a2t1eWdtN3g2dXBwZnM0NGxzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="nameismvsk" />
 </p>
-- 🌱 I’m currently learning **Micro services, Spring Security, Java, SQL**
-
 - 💬 Ask me about **Java, Spring Boot, HTML ,CSS, MYSQL**
 
 - 📫 How to reach me **mvsravankumar2@gmail.com**
