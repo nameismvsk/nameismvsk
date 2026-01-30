@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Core Projects and Coders**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nameismvsk](https://github.com/nameismvsk)
+- 👨‍💻 All of my projects are available at [Repositories]([https://github.com/nameismvsk](https://github.com/nameismvsk?tab=repositories))
 
 - 📫 How to reach me **https://www.linkedin.com/in/m-v-sravankumar-253010247/**
 
