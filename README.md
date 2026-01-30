@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and other Tech**
 
-- 🤝 I’m looking for help with **Core Projects**
+- 🤝 I’m looking for help with **Core Projects and Coders**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nameismvsk](https://github.com/nameismvsk)
 
