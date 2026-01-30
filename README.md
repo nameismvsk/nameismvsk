@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sravan</h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nameismvsk&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 
 <p align="right">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuemwwdHE3enk4bmNhdmR1ZnE1a2t1eWdtN3g2dXBwZnM0NGxzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="nameismvsk" />
