@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with **Core Projects and Coders**
 
-- 👨‍💻 All of my projects are available at [Repositories]([https://github.com/nameismvsk](https://github.com/nameismvsk?tab=repositories))
+- 👨‍💻 All of my projects are available at: [Repositories](https://github.com/nameismvsk?tab=repositories)
 
-- 📫 How to reach me **https://www.linkedin.com/in/m-v-sravankumar-253010247/**
+- 📫 Connect me at: [Linked-In](https://www.linkedin.com/in/m-v-sravankumar-253010247/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/m-v-sravankumar-253010247/](https://www.linkedin.com/in/m-v-sravankumar-253010247/)
+- 📄 Know about my: [experiences](https://www.linkedin.com/in/m-v-sravankumar-253010247/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
