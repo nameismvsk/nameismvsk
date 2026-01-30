@@ -8,7 +8,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuemwwdHE3enk4bmNhdmR1ZnE1a2t1eWdtN3g2dXBwZnM0NGxzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="nameismvsk" />
 </p>
 
-- 🔭 I’m currently working on **Waymo self-driving cars**
+- 🔭 I’m currently working on **Automation Self-driving cars**
 
 - 🌱 I’m currently learning **Spring Boot and other Tech**
 
